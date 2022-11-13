@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benoît</h1>
 <h3 align="center">Up-and-coming full stack developer from France</h3>
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
