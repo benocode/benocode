@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benoît</h1>
 <h3 align="center">Up-and-coming full stack developer from France</h3>
 
-- 🌱 I’m currently learning **JavaScript** at ENI school
+- 🌱 I’m currently learning **php** with **Symfony** at ENI school
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
