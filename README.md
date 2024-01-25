@@ -13,7 +13,7 @@
 <h3 align="left">Favorite languages and tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="LitElement" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpolymer-lit-element.appspot.com%2Fguide%2Fpublish&psig=AOvVaw21V1QVANeAuejB2b6aV5rC&ust=1706261435726000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNC2h6yd-IMDFQAAAAAdAAAAABAD" alt="LitElement" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
